@@ -1,5 +1,5 @@
-assimilated? qué assimilated,
-brother, yo soy asimilao,
+<english>assimilated</english>? qué assimilated,
+brother, yo soy <regional>asimilao</regional>,
 así mi la o sí es verdad
 tengo un lado asimilao,
 you see, they went deep....Ass
